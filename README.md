@@ -8,8 +8,8 @@
 
 </p>
 <p align="center">
-<a href="https://instagram.com/tech.vj"><img alt="replit" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.me/BOT_OWNER26"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://youtube.com/@Tech_VJ"><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://instagram.com/av_instgram"><img alt="replit" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.me/BOT_OWNER26"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://www.youtube.com/@avautobotz"><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 <br>
@@ -32,8 +32,8 @@
 
 <h3 align="center">
 <a href="https://www.youtube.com/@Tech_VJ">
-    &nbsp;<img src="https://img.shields.io/badge/Tech VJ's YT-FF0000?style=flat-square&logo=YouTube" width="200" height="30">&nbsp;
-<a href="https://youtube.com/@Tech_VJ"> <img src="https://img.shields.io/youtube/channel/subscribers/UCEWm-JSe1r-2LfHJkIhtbJQ?V?label=Subscribers&style=for-the-badge&color=FF0000&labelColor=ce463"/>
+    &nbsp;<img src="https://img.shields.io/badge/Botsthe's YT-FF0000?style=flat-square&logo=YouTube" width="200" height="30">&nbsp;
+<a href="https://www.youtube.com/@avautobotz"> <img src="https://img.shields.io/youtube/channel/subscribers/UCEWm-JSe1r-2LfHJkIhtbJQ?V?label=Subscribers&style=for-the-badge&color=FF0000&labelColor=ce463"/>
 </a>
 </p>
 
