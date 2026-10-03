@@ -19,22 +19,20 @@
 
 - 🤖 Building **Telegram bots & automation systems**
 - 🐍 Working primarily with **Python**
-- 🗄️ Using **MongoDB** for scalable bot data
-- 🔌 Building and integrating **APIs & webhooks**
-- 🚀 Interested in deployment, automation and backend systems
+- 🗄️ Building projects with **MongoDB**
+- 🔌 Working with **APIs, webhooks & integrations**
+- 🚀 Interested in backend systems and production deployments
 - 💡 Turning ideas into practical, working products
 
 ---
 
 ## ⚙️ Tech Stack
 
-### Languages
+### Languages & Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Telegram & Backend
 ![Pyrogram](https://img.shields.io/badge/Pyrogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge)
 ![Webhooks](https://img.shields.io/badge/Webhooks-6C63FF?style=for-the-badge)
 
 ### Tools & Platforms
@@ -45,26 +43,50 @@
 
 ---
 
-## 🤖 What I Build
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%">
 
-### Telegram Bots
-Powerful bots with commands, callbacks, inline keyboards, automation and database integration.
+### 🖼️ IMG-TO-LINK-BOT
+Telegram bot project for converting uploaded images into accessible links.
 
-</td>
-<td width="33%" align="center">
+**Stack:** Python • Telegram • APIs
 
-### API Systems
-Payment flows, webhooks, REST APIs and backend integrations.
+[🔗 View Repository](https://github.com/Botsthe/IMG-TO-LINK-BOT)
 
 </td>
-<td width="33%" align="center">
+<td width="50%">
 
-### Automation
-Tools that automate repetitive workflows and simplify everyday tasks.
+### 📁 AV-FILE-TO-LINK-PRO
+Advanced file-to-link project focused on Telegram file handling and link generation.
+
+**Stack:** Python • Telegram • Backend
+
+[🔗 View Repository](https://github.com/Botsthe/AV-FILE-TO-LINK-PRO)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🗄️ DATABASE
+Public database-focused repository from the AV Botz ecosystem.
+
+**Focus:** Database systems • Backend
+
+[🔗 View Repository](https://github.com/Botsthe/DATABASE)
+
+</td>
+<td width="50%">
+
+### 💳 S-PAY GETAWAY
+Payment and gateway automation project.
+
+**Focus:** Payments • APIs • Automation
+
+[🔗 View Repository](https://github.com/Botsthe/s-pay-getaway-vercel)
 
 </td>
 </tr>
@@ -72,15 +94,16 @@ Tools that automate repetitive workflows and simplify everyday tasks.
 
 ---
 
-## 🚀 Featured Projects
+## 🤖 What I Build
 
-| Project | Description | Stack |
-|---|---|---|
-| 🤖 **Telegram Bots** | Custom Telegram automation & bot systems | Python • Pyrogram |
-| 💳 **S-PAY GETAWAY** | Payment & gateway automation ecosystem | Python • APIs • MongoDB |
-| 🛠️ **Developer Tools** | Utilities and automation projects | Python • APIs |
-
-> More projects are available across my GitHub repositories.
+| Area | What I Work On |
+|---|---|
+| 🤖 Telegram | Bots, commands, callbacks, keyboards & automation |
+| 🔌 APIs | REST APIs, webhooks & third-party integrations |
+| 🗄️ Databases | MongoDB-backed bot and backend systems |
+| 💳 Payments | Payment flows, QR systems & gateway integrations |
+| ⚡ Automation | Repetitive workflow automation & utilities |
+| 🚀 Deployment | Production-ready bot/backend deployments |
 
 ---
 
@@ -107,6 +130,16 @@ Tools that automate repetitive workflows and simplify everyday tasks.
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+
+</div>
+
+---
+
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -117,15 +150,16 @@ Tools that automate repetitive workflows and simplify everyday tasks.
 
 ---
 
-## 🎯 Currently Focused On
+## 🎯 2026 Focus
 
 ```text
 🤖 Advanced Telegram Bots
 ⚡ Backend Automation
 🔌 API & Webhook Integrations
-🗄️ MongoDB Systems
+🗄️ Scalable MongoDB Systems
 💳 Payment Automation
 🚀 Production Deployments
+🧩 Developer Tooling
 ```
 
 ---
@@ -149,13 +183,13 @@ Tools that automate repetitive workflows and simplify everyday tasks.
 
 ---
 
-## ⚡ Developer Mindset
+## 💡 Developer Mindset
 
 > **Build it. Automate it. Improve it. Ship it.**
 
 <div align="center">
 
-### Thanks for visiting my profile! ⭐
+### ⭐ Thanks for visiting my profile!
 
 <img src="https://komarev.com/ghpvc/?username=Botsthe&style=for-the-badge&color=blueviolet"/>
 
