@@ -71,22 +71,22 @@ Advanced file-to-link project focused on Telegram file handling and link generat
 <tr>
 <td width="50%">
 
-### 🗄️ DATABASE
-Public database-focused repository from the AV Botz ecosystem.
+### 🤖 PronWaliZoneBot
+Telegram bot project from the AV Botz ecosystem.
 
-**Focus:** Database systems • Backend
+**Focus:** Telegram • Python • Bot Automation
 
-[🔗 View Repository](https://github.com/Botsthe/DATABASE)
+[🔗 View Repository](https://github.com/Botsthe/PronWaliZoneBot)
 
 </td>
 <td width="50%">
 
-### 💳 S-PAY GETAWAY
-Payment and gateway automation project.
+### 🤖 PronWaliZoneBot
+Telegram bot project from the AV Botz ecosystem.
 
-**Focus:** Payments • APIs • Automation
+**Focus:** Telegram • Python • Bot Automation
 
-[🔗 View Repository](https://github.com/Botsthe/s-pay-getaway-vercel)
+[🔗 View Repository](https://github.com/Botsthe/PronWaliZoneBot)
 
 </td>
 </tr>
