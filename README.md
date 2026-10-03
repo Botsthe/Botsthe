@@ -81,12 +81,12 @@ Telegram bot project from the AV Botz ecosystem.
 </td>
 <td width="50%">
 
-### 🤖 PronWaliZoneBot
-Telegram bot project from the AV Botz ecosystem.
+### 🚀 More Projects
+Explore more public projects from the Botsthe ecosystem.
 
-**Focus:** Telegram • Python • Bot Automation
+**Focus:** Telegram • Python • Automation
 
-[🔗 View Repository](https://github.com/Botsthe/PronWaliZoneBot)
+[🔗 View GitHub Projects](https://github.com/Botsthe?tab=repositories)
 
 </td>
 </tr>
